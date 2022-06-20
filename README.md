@@ -1,3 +1,2 @@
-# Android NFC read and write example
+# Mule NFC and Crypto Payment App
 
-http://www.codexpedia.com/android/android-nfc-read-and-write-example/
